@@ -1,0 +1,30 @@
+{
+  "name": "@progdesigner/react-native-image-picker",
+  "version": "0.1.1",
+  "author": "ProgDesigner <me@progdesigner.com>",
+  "description": "React Native Network",
+  "private": false,
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "react-native",
+    "ios",
+    "android",
+    "image-picker",
+    "progdesigner"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/progdesigner/react-native-image-picker.git"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "prop-types": "^15.6.0"
+  }
+}
